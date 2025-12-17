@@ -43,7 +43,7 @@ pip-tools==6.8.0
     # via -r requirements.in
 pygments==2.15.0
     # via mkdocs-material
-pymdown-extensions==10.0
+pymdown-extensions==10.16.1
     # via mkdocs-material
 pyparsing==3.0.9
     # via packaging
